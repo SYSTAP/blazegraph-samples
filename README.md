@@ -1,4 +1,5 @@
-#Welcome to the Blazegraph Samples Project#
+# Welcome to the Blazegraph Samples Project #
+
 The Blazegraph™ Database is our ultra high-performance graph database supporting Blueprints and RDF/SPARQL APIs. It supports up to 50 Billion edges on a single machine and has available enterprise features such as High Availability and Scale-out. It is in production use for Fortune 500 customers such as EMC, Autodesk, and many others.  It powers the Wikimedia Foundation's Wiki Data Query Service.  See the latest [Feature Matrix](http://www.blazegraph.com/product/).
 
 [Sign up](http://eepurl.com/VLpUj) to get the latest news on Blazegraph.  
